@@ -1,3 +1,6 @@
+````
+This project was moved from Google code site as is.
+````
 
 # ABOUT THE PROJECT
 
@@ -15,9 +18,9 @@ If somebody has some other good collection, please, let me know. I think, it wil
 For reward I can create a library/db script/application which stores/uses these stop words. If you will be interested in my services, please contact me at a.balucha@gmail.com. 
 
 # HISTORY
-24.02.2014 - updated list of stop words from https://sites.google.com/site/kevinbouge/stopwords-lists
-21.11.2011 - updated list of stop words from http://www.ranks.nl/resources/stopwords.html
-20.11.2011 - date of creation of this project
+* 24.02.2014 - updated list of stop words from https://sites.google.com/site/kevinbouge/stopwords-lists
+* 21.11.2011 - updated list of stop words from http://www.ranks.nl/resources/stopwords.html
+* 20.11.2011 - date of creation of this project
 
 # ACTUAL STATUS
 
